@@ -117,13 +117,13 @@ body {
   }
   .sidebar {
     font-size: 20px;
-    background-image: url(Photos/Background.jpg);
+    background-image: url(Photos/Background1.jpg);
     border-radius: 20px;
   }
   .competences {
     font-size: 20px;
     margin-left: 20px;
-    background-image: url(Photos/Background.jpg);
+    background-image: url(Photos/Background1.jpg);
     border-radius: 20px;
   }
   .navbar {
@@ -158,6 +158,6 @@ body {
   }
   section {
     justify-content: end;
-    background-image: url(Photos/Background.jpg);
+    background-image: url(Photos/Background1.jpg);
     height: 40px;
   }
