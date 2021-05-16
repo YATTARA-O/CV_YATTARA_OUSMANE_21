@@ -2,13 +2,13 @@ body {
     margin: 10px;
     width: auto;
     height: auto;
-    background-image: url(Photos/Background1.jpg);
+    background-image: url(PHOTOS/Background1.jpg);
   }
   .header {
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-around;
-    background-image: url(Photos/Background.jpg);
+    background-image: url(PHOTOS/Background.jpg);
     border-radius: 20px 20px 0px 0px;
   }
   .logo {
@@ -51,7 +51,7 @@ body {
     padding-top: 20px;
     padding-bottom: 20px;
     justify-content: flex-end;
-    background-image: url(Photos/Background2.jpg);
+    background-image: url(PHOTOS/Background2.jpg);
   }
   ::placeholder {
     font-size: 16px;
@@ -153,7 +153,8 @@ body {
   video {
     padding-bottom: 3px;
     border-radius: 20px;
-    background-image: url(Photos/Background.jpg);
+    background-color: gainsboro;
+    margin-left: 5px;
   }
   section {
     justify-content: end;
