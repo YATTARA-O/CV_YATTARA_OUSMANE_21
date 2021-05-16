@@ -20,6 +20,9 @@ body {
     border-radius: 20px;
     padding-top: 5px;
   }
+  h2 {
+    margin-left: 20px;
+  }
   figure {
     background: white;
     object-fit: cover;
@@ -32,14 +35,12 @@ body {
   }
   .informations {
     font-size: 20px;
-    cursor: pointer;
-    border-radius: 20px;
-    margin-right: 40px;
+    margin-right: 10px;
     text-align: center;
   }
   .description {
     text-align: center;
-    font-size: 15px;
+    font-size: 20px;
     object-fit: cover;
     padding-top: 80px;
   }
