@@ -27,7 +27,7 @@ body {
     background: white;
     object-fit: cover;
     width: 210px;
-    height: 210px;
+    height: 220px;
     box-shadow: 1px 1px 1px 1px;
   }
   .informations > p {
